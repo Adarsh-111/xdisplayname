@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h2>XDisplayName</h2>
+      <h2>Full Name Display</h2>
 
       <form onSubmit={handleSubmit}>
         <input
